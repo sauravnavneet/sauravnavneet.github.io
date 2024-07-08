@@ -72584,7 +72584,7 @@ A.Da.prototype={
 P(a){var s,r=null,q=t.w,p=A.aH(a,r,q).w
 q=A.aH(a,r,q).w
 s=t.p
-return A.bN(r,A.a8e(new A.cR(B.i8,A.dE(A.a([B.xz,B.TV,B.A,A.fl(A.a([B.Fz,B.e5,A.i_(A.aoK(A.cW("assets/assets/icons/instagram.svg",r,B.L,25,25),new A.Us()),1)],s),B.I,B.fo,B.v),B.A,new A.hL(B.Y,r,r,A.aGq(),r),B.bJ,A.fl(A.a([A.dE(A.a([A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lS,r,A.f0(20),r,r,B.S),r,100,r,r,r,r,100),B.A,B.U0],s),B.I,B.N,B.v),B.ON,A.dE(A.a([A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lR,r,A.f0(20),r,r,B.S),r,100,r,r,r,r,100),B.A,B.U6],s),B.I,B.N,B.v)],s),B.I,B.iS,B.v)],s),B.I,B.N,B.v),r)),B.l,r,r,B.b2,r,p.a.b,r,r,r,r,q.a.a)}}
+return A.bN(r,A.a8e(new A.cR(B.i8,A.dE(A.a([B.xz,B.TV,B.A,A.fl(A.a([B.Fz,B.e5,A.i_(A.aoK(A.cW("assets/icons/instagram.svg",r,B.L,25,25),new A.Us()),1)],s),B.I,B.fo,B.v),B.A,new A.hL(B.Y,r,r,A.aGq(),r),B.bJ,A.fl(A.a([A.dE(A.a([A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lS,r,A.f0(20),r,r,B.S),r,100,r,r,r,r,100),B.A,B.U0],s),B.I,B.N,B.v),B.ON,A.dE(A.a([A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lR,r,A.f0(20),r,r,B.S),r,100,r,r,r,r,100),B.A,B.U6],s),B.I,B.N,B.v)],s),B.I,B.iS,B.v)],s),B.I,B.N,B.v),r)),B.l,r,r,B.b2,r,p.a.b,r,r,r,r,q.a.a)}}
 A.Us.prototype={
 $0(){A.CO(A.hz("https://www.instagram.com/singwithsaurav",0,null))},
 $S:0}
@@ -72718,7 +72718,7 @@ h=!k
 if(h){g=!c?35:15
 i.push(A.jg(20,A.ua(A.cW(s[a],n,B.L,100,100),B.i6,0.1),n,n,g,n,n,n))}if(h){h=m.k(0,"title")
 h.toString
-i.push(A.jg(n,A.iO(A.dg(A.oL(h,2,B.cn,B.ck),n,100),n,n),n,n,10,0,60,n))}i.push(A.jg(n,A.cW("assets/assets/icons/github.svg",B.m3,B.L,25,25),n,n,n,10,10,n))
+i.push(A.jg(n,A.iO(A.dg(A.oL(h,2,B.cn,B.ck),n,100),n,n),n,n,10,0,60,n))}i.push(A.jg(n,A.cW("assets/icons/github.svg",B.m3,B.L,25,25),n,n,n,10,10,n))
 return A.vP(n,A.kB(B.bh,i,B.bp),B.az,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.afe(l,k,a),n,n,n)},
 $S:157}
 A.afe.prototype={
@@ -72750,7 +72750,7 @@ r=A.aH(a,s,r).w
 return A.bN(s,new A.cR(B.m2,A.ap9(A.a([new A.nW(!0,!1,!0,20,B.Ez,s),B.KB],t.p)),s),B.l,s,s,B.b2,s,q.a.b,s,s,s,s,r.a.a)}}
 A.Dm.prototype={
 P(a){var s=this,r=null,q=A.aH(a,r,t.w).w
-return A.jg(r,new A.cR(B.m_,A.bN(r,A.fl(A.a([B.cW,A.i6(!1,!0,A.cW("assets/assets/icons/calls.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UK(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/email.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UL(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/github.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UM(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/linkedin.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UN(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/kaggle.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UO(s),r,r,r,r),B.aZ],t.p),B.I,B.rB,B.v),B.l,r,r,B.zK,r,50,r,r,r,r,q.a.a),r),r,r,0,r,0,r)}}
+return A.jg(r,new A.cR(B.m_,A.bN(r,A.fl(A.a([B.cW,A.i6(!1,!0,A.cW("assets/icons/calls.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UK(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/email.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UL(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/github.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UM(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/linkedin.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UN(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/kaggle.svg",B.b4,B.L,20,20),r,!0,r,r,r,r,r,r,r,r,r,new A.UO(s),r,r,r,r),B.aZ],t.p),B.I,B.rB,B.v),B.l,r,r,B.zK,r,50,r,r,r,r,q.a.a),r),r,r,0,r,0,r)}}
 A.UK.prototype={
 $0(){return this.a.c.fp("https://wa.me/9199593961")},
 $S:0}
@@ -72773,7 +72773,7 @@ else s=B.fU
 return s}}
 A.Hm.prototype={
 P(a){var s=this,r=null,q=A.aH(a,r,t.w).w
-return A.bN(r,A.i_(A.fl(A.a([s.Fj(0,"assets/assets/icons/arrow-right.svg",!1),s.oE(1,"assets/assets/icons/profile.svg"),s.oE(2,"assets/assets/icons/work.svg"),s.oE(3,"assets/assets/icons/experience.svg"),s.oE(4,"assets/assets/icons/certificate.svg"),s.oE(5,"assets/assets/icons/analytics.svg"),B.bJ],t.p),B.I,B.fo,B.v),1),B.l,B.BN,r,r,r,60,r,r,r,r,q.a.a)},
+return A.bN(r,A.i_(A.fl(A.a([s.Fj(0,"assets/icons/arrow-right.svg",!1),s.oE(1,"assets/icons/profile.svg"),s.oE(2,"assets/icons/work.svg"),s.oE(3,"assets/icons/experience.svg"),s.oE(4,"assets/icons/certificate.svg"),s.oE(5,"assets/icons/analytics.svg"),B.bJ],t.p),B.I,B.fo,B.v),1),B.l,B.BN,r,r,r,60,r,r,r,r,q.a.a)},
 Fj(a,b,c){var s,r=null,q=this.c===a
 if(a===0)return B.fU
 s=q&&c?B.cG:B.K
@@ -72800,7 +72800,7 @@ A.Db.prototype={
 P(a){var s,r=null,q=t.w,p=A.aH(a,r,q).w,o=A.aH(a,r,q).w
 q=A.aH(a,r,q).w.a.a<=1300?800:1000
 s=t.p
-return A.bN(r,A.a8e(A.fl(A.a([A.i_(A.bN(r,A.dE(A.a([B.xz,B.TW,B.A,A.dg(A.fl(A.a([B.Uo,B.cW,A.aoK(A.cW("assets/assets/icons/instagram.svg",r,B.L,50,50),new A.Ut())],s),B.I,B.N,B.v),50,q)],s),B.I,B.N,B.v),B.l,r,r,r,r,r,r,B.Fu,r,r,r),2),A.i_(A.fl(A.a([A.dE(A.a([A.aGr()],s),B.I,B.iS,B.v),B.OI,A.dE(A.a([B.bJ,A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lS,r,A.f0(20),r,r,B.S),r,200,r,r,r,r,300),B.A,B.U1,B.bJ,B.OL,B.aE,A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lR,r,A.f0(20),r,r,B.S),r,200,r,r,r,r,300),B.A,B.U7],s),B.I,B.cb,B.v),B.OM],s),B.I,B.iR,B.v),1)],s),B.I,B.N,B.v)),B.l,r,r,B.b2,r,p.a.b,r,r,r,r,o.a.a)}}
+return A.bN(r,A.a8e(A.fl(A.a([A.i_(A.bN(r,A.dE(A.a([B.xz,B.TW,B.A,A.dg(A.fl(A.a([B.Uo,B.cW,A.aoK(A.cW("assets/icons/instagram.svg",r,B.L,50,50),new A.Ut())],s),B.I,B.N,B.v),50,q)],s),B.I,B.N,B.v),B.l,r,r,r,r,r,r,B.Fu,r,r,r),2),A.i_(A.fl(A.a([A.dE(A.a([A.aGr()],s),B.I,B.iS,B.v),B.OI,A.dE(A.a([B.bJ,A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lS,r,A.f0(20),r,r,B.S),r,200,r,r,r,r,300),B.A,B.U1,B.bJ,B.OL,B.aE,A.bN(r,r,B.l,r,r,new A.ck(B.eB,B.lR,r,A.f0(20),r,r,B.S),r,200,r,r,r,r,300),B.A,B.U7],s),B.I,B.cb,B.v),B.OM],s),B.I,B.iR,B.v),1)],s),B.I,B.N,B.v)),B.l,r,r,B.b2,r,p.a.b,r,r,r,r,o.a.a)}}
 A.Ut.prototype={
 $0(){A.CO(A.hz("https://www.instagram.com/singwithsaurav",0,null))},
 $S:0}
@@ -72924,7 +72924,7 @@ if(h){g=!c?50:10
 i.push(A.jg(n,A.ua(A.cW(s[a],n,B.L,200,200),B.i6,0.2),n,n,g,n,n,n))}if(h){h=A.aH(this.b,n,t.w).w
 g=m.k(0,"title")
 g.toString
-i.push(A.jg(n,A.iO(A.dg(A.oL(g,2,B.QG,B.ck),n,h.a.a-620),n,n),n,n,10,0,70,n))}i.push(A.jg(n,A.cW("assets/assets/icons/github.svg",B.m3,B.L,25,25),n,n,n,10,10,n))
+i.push(A.jg(n,A.iO(A.dg(A.oL(g,2,B.QG,B.ck),n,h.a.a-620),n,n),n,n,10,0,70,n))}i.push(A.jg(n,A.cW("assets/icons/github.svg",B.m3,B.L,25,25),n,n,n,10,10,n))
 return A.vP(n,A.kB(B.bh,i,B.bp),B.az,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.afg(l,k,a),n,n,n)},
 $S:157}
 A.afg.prototype={
@@ -72956,7 +72956,7 @@ r=A.aH(a,s,r).w
 return A.bN(s,new A.cR(B.m2,A.ap9(A.a([new A.nW(!0,!1,!0,50,B.EA,s),B.KC],t.p)),s),B.l,s,s,B.b2,s,q.a.b,s,s,s,s,r.a.a-20)}}
 A.Dn.prototype={
 P(a){var s=this,r=null,q=A.aH(a,r,t.w).w
-return A.jg(r,new A.cR(B.m_,A.bN(r,A.fl(A.a([A.i6(!1,!0,A.cW("assets/assets/icons/calls.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UP(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/email.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UQ(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/github.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UR(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/linkedin.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.US(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/assets/icons/kaggle.svg",B.b4,B.L,20,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UT(s),r,r,r,r),B.aZ],t.p),B.I,B.iR,B.v),B.l,r,r,B.zL,r,70,r,r,r,r,q.a.a/4),r),r,r,r,0,0,r)}}
+return A.jg(r,new A.cR(B.m_,A.bN(r,A.fl(A.a([A.i6(!1,!0,A.cW("assets/icons/calls.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UP(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/email.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UQ(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/github.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UR(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/linkedin.svg",B.b4,B.L,25,25),r,!0,r,r,r,r,r,r,r,r,r,new A.US(s),r,r,r,r),B.aZ,A.i6(!1,!0,A.cW("assets/icons/kaggle.svg",B.b4,B.L,20,25),r,!0,r,r,r,r,r,r,r,r,r,new A.UT(s),r,r,r,r),B.aZ],t.p),B.I,B.iR,B.v),B.l,r,r,B.zL,r,70,r,r,r,r,q.a.a/4),r),r,r,r,0,0,r)}}
 A.UP.prototype={
 $0(){return this.a.c.fp("https://wa.me/9199593961")},
 $S:0}
@@ -72974,7 +72974,7 @@ $0(){return this.a.c.fp("https://www.kaggle.com/sauravnavneet")},
 $S:0}
 A.Hn.prototype={
 P(a){var s=this,r=null,q=A.a9(204,21,3,7)
-return A.bN(r,A.dE(A.a([s.HL(0,"assets/assets/icons/arrow-right.svg",!1),s.p7(1,"assets/assets/icons/profile.svg"),s.p7(2,"assets/assets/icons/work.svg"),s.p7(3,"assets/assets/icons/experience.svg"),s.p7(4,"assets/assets/icons/certificate.svg"),s.p7(5,"assets/assets/icons/analytics.svg"),B.bJ],t.p),B.I,B.fo,B.v),B.l,q,r,r,r,r,r,r,r,r,80)},
+return A.bN(r,A.dE(A.a([s.HL(0,"assets/icons/arrow-right.svg",!1),s.p7(1,"assets/icons/profile.svg"),s.p7(2,"assets/icons/work.svg"),s.p7(3,"assets/icons/experience.svg"),s.p7(4,"assets/icons/certificate.svg"),s.p7(5,"assets/icons/analytics.svg"),B.bJ],t.p),B.I,B.fo,B.v),B.l,q,r,r,r,r,r,r,r,r,80)},
 HL(a,b,c){var s,r=null,q=this.c===a
 if(a===0)return B.fU
 s=q&&c?B.cG:B.K
@@ -78965,7 +78965,7 @@ B.lg=new A.VA(0,"pixel")
 B.Ba=new A.uA(null,null,null,null,null,null,null)
 B.Bb=new A.uB(null,null,null,null,null,null,null,null,null)
 B.Bc=new A.uC(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.kz=new A.mR("assets/assets/images/profile.jpg")
+B.kz=new A.mR("assets/images/profile.jpg")
 B.Bd=new A.pB(null,null,B.kz,80,null)
 B.Be=new A.pB(null,null,B.kz,150,null)
 B.Bf=new A.dD(0,B.q)
@@ -79141,12 +79141,12 @@ B.ER=new A.n4(3,"initializingUi")
 B.ES=new A.n4(4,"initialized")
 B.ET=new A.WM(1,"traversalOrder")
 B.EU=new A.EO(!0,null)
-B.yO=new A.mR("assets/assets/images/pu-logo.png")
+B.yP=new A.mR("assets/images/pu-logo.png")
 B.bC=new A.qf(3,"noRepeat")
 B.bm=new A.nl(1,"low")
-B.lR=new A.ln(B.yO,null,B.L)
-B.yP=new A.mR("assets/assets/images/sschool.png")
-B.lS=new A.ln(B.yP,null,B.L)
+B.lR=new A.ln(B.yP,null,B.L)
+B.yO=new A.mR("assets/images/sschool.png")
+B.lS=new A.ln(B.yO,null,B.L)
 B.i3=new A.ER(0,"background")
 B.lT=new A.ER(1,"foreground")
 B.X4=new A.Pb(null)
@@ -79425,7 +79425,6 @@ B.P5=new A.rm(1,"round")
 B.P7=new A.rm(2,"bevel")
 B.Hq=A.a(s([B.e7,B.P5,B.P7]),A.a0("u<rm>"))
 B.Hs=A.a(s([B.hk,B.hl]),A.a0("u<uk>"))
-B.fc=A.a(s(["assets/assets/certifications/Simplilearn.svg","assets/assets/certifications/hackerrank.svg","assets/assets/certifications/testdome.svg","assets/assets/certifications/udemy.svg"]),t.s)
 B.PZ=new A.md(0,"solid")
 B.xM=new A.md(1,"double")
 B.Q1=new A.md(2,"dotted")
@@ -79478,6 +79477,7 @@ B.O=new A.me(0,"rtl")
 B.o=new A.me(1,"ltr")
 B.iw=A.a(s([B.O,B.o]),A.a0("u<me>"))
 B.mB=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
+B.fc=A.a(s(["assets/certifications/Simplilearn.svg","assets/certifications/hackerrank.svg","assets/certifications/testdome.svg","assets/certifications/udemy.svg"]),t.s)
 B.mC=A.a(s(["DATA SCIENCE - PYTHON - TABLEAU - MySQL - MACHINE LEARNING - STATISTICS","SQL INTERMEDIATE / ADVANCED ","SQL","DART & FLUTTER - POWERBI - TENSORFLOW 2.0 - FASTAPI - AWS "]),t.s)
 B.FI=new A.hj(1)
 B.FK=new A.hj(2)
